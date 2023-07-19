@@ -84,7 +84,12 @@
             AstragoDE
           </a>
           | &copy; 2023 |
-          <a href="" target="_blank" class="link">Source Code</a>
+          <a
+            href="https://github.com/InformatikPGWV/abimotto_2024"
+            target="_blank"
+            class="link"
+            >Source Code</a
+          >
         </p>
       </div>
       <div class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
