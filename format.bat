@@ -1,1 +1,1 @@
-yarn prettier . --write
+pnpm prettier . --write
